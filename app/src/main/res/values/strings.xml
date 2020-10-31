@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movie Memoir</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string-array name="state_array">
+        <item>Select the State</item>
+        <item>NSW</item>
+        <item>QLD</item>
+        <item>SA</item>
+        <item>TSA</item>
+        <item>VIC</item>
+        <item>WA</item>
+        <item>ACT</item>
+        <item>JBT</item>
+        <item>NT</item>
+    </string-array>
+</resources>
